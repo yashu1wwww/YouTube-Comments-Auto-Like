@@ -5,7 +5,6 @@ YouTube Video Comments Auto Like using selenium with python in localhost
 
 𝙉𝙤𝙩𝙚:𝘿𝙞𝙙𝙣'𝙩 𝙘𝙤𝙥𝙮-𝙥𝙖𝙨𝙩𝙚 𝙘𝙤𝙙𝙚 𝙖𝙜𝙖𝙞𝙣 𝙖𝙣𝙙 𝙖𝙜𝙖𝙞𝙣 𝙎𝙤𝙢𝙚 𝘾𝙝𝙖𝙣𝙜𝙚𝙨 𝘼𝙧𝙚 𝙏𝙝𝙚𝙧𝙚.
 
-"If you know proxy rotation, then please fork it".
 https://www.youtube.com/watch?v=FVumnHy5Tzo&t=1s&ab_channel=HelloWorld
 
 <𝙬𝙖𝙩𝙘𝙝 𝙪𝙥𝙩𝙤 3mins.46sec+ 𝙩𝙝𝙚𝙣 𝙧𝙚𝙢𝙖𝙞𝙣𝙞𝙣𝙜 𝙥𝙖𝙧𝙩 𝙘𝙤𝙥𝙮 𝙩𝙝𝙚 𝙝.𝙥𝙮 𝙨𝙘𝙧𝙞𝙥𝙩 𝙖𝙣𝙙 𝙨𝙖𝙫𝙚 𝙖𝙨 𝙝.𝙥𝙮 𝙖𝙣𝙙 𝙥𝙖𝙨𝙩𝙚 𝙩𝙝𝙖𝙩 𝙛𝙞𝙡𝙚 𝙩𝙝𝙚𝙧𝙚>
@@ -44,13 +43,9 @@ cd C:\Users\Hp\AppData\Local\Google\Chrome\Application
 
 chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bots\Chromedriver\Localhost"
 
-To do 500+ auto comments, you must log in with 10+ accounts.
+In line 18, change the movie video URL to the required URL.
 
-In lines 11 and 12 of the code, change the comments if you want to use something different.
-
-In line 21, change the movie video URL to the required URL.
-
-That's it! The URL will open in the previously opened localhost Chrome and 500+ auto comments will be done automatically.
+That's it! The URL will open in the previously opened localhost Chrome and automatically likes the cmts (note it only like the 19 cmts only)
 
 in cmd enter
 
