@@ -27,8 +27,6 @@ driver.execute_script("window.scrollTo(0, 600);")
 
 time.sleep(3)
 
-like_button_xpath = '//*[@id="like-button"]/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]'
-
 like_buttons = driver.find_elements_by_xpath('//*[@id="like-button"]/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]')
 
 # Click on each like button
