@@ -35,7 +35,7 @@ For example, in my case it is:
 
 chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bots\Chromedriver\Localhost"
 
-then new terminal in that folder and enter s.py
+## then new terminal in that folder and enter shorts.py for short video & video.py for youtube video
 
 Then, open the command prompt in that folder and paste the following two lines one at a time and press enter. (The code below assumes that you have watched the video and have set up the correct Chrome and localhost path.)
 
