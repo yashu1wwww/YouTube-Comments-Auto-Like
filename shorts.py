@@ -33,6 +33,6 @@ like_buttons = driver.find_elements_by_xpath('//*[@id="like-button"]/yt-button-s
 for button in like_buttons:
     button.click()
 
-time.sleep30)
+time.sleep(30)
 
 
