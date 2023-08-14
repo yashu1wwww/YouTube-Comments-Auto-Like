@@ -1,5 +1,5 @@
 # YouTube-Comments-Auto-Like
-YouTube Comments Auto Likes for both video and shorts using selenium with python in localhost
+YouTube Comments Auto Likes for both video and shorts using selenium with python on localhost
 
 "𝙏𝙝𝙚𝙨𝙚 𝙨𝙘𝙧𝙞𝙥𝙩𝙨 𝙮𝙤𝙪 𝙙𝙞𝙙𝙣'𝙩 𝙛𝙞𝙣𝙙 𝙞𝙣 𝙖𝙣𝙮 𝘼𝙄"
 
