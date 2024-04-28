@@ -19,10 +19,6 @@ driver.get("https://www.youtube.com/shorts/USc22MHu9cU") #replace with your shor
 
 time.sleep(5)
 
-driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-shorts/div[3]/div[2]/ytd-reel-video-renderer[1]/div[2]/div/ytd-shorts-player-controls/yt-icon-button[1]/button/yt-icon/yt-icon-shape/icon-shape').click() #pause the youtube shorts
-
-time.sleep(4)
-
 driver.find_element_by_css_selector('#comments-button > ytd-button-renderer > yt-button-shape > label > button > yt-touch-feedback-shape > div > div.yt-spec-touch-feedback-shape__fill').click() #click on youtube short cmt box
 
 time.sleep(4)
@@ -34,5 +30,3 @@ for button in like_buttons:
     button.click()
 
 time.sleep(30)
-
-
