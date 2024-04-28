@@ -43,7 +43,11 @@ chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bot
 
 In line 18, change the movie video URL to the required URL.
 
-That's it! The URL will open in the previously opened localhost Chrome and automatically likes the cmts (note it only like the 19 cmts only)
+That's it! The URL will open in the previously opened localhost Chrome and automatically likes the cmts 
+
+# (note it only like the 19 cmts only)
+
+# 👉 Note:Every time YouTube updates the code, it varies. So, open the YouTube video, press 'Ctrl+Shift+C' to open the developer tools,
 
 in cmd enter
 
